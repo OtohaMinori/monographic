@@ -1,0 +1,15 @@
+{
+    "name": "yuukiayano/forum.yeyunstudio.com",
+    "authors": [
+        {
+            "name": "結城あやの",
+            "email": "YuukiAyano@SJBots.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "classes"
+        ]
+    }
+}
